@@ -1,2 +1,2 @@
 # data-science
-Data Science utilities, frameworks and apps
+Our contributions to Data Science with blogs, utilities, frameworks and applications.
